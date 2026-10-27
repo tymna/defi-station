@@ -21,7 +21,7 @@ Study project — learning DeFi protocols by building on top of them. Each strat
 **Testing (Foundry)**
 
 - Unit tests for vault deposit/withdraw mechanics
-- Fork tests against live GMX contracts on Base
+- Fork tests against live GMX contracts on Arbitrum
 
 ## Build
 
